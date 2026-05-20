@@ -64,7 +64,7 @@ Active in the Greek Microsoft and cybersecurity community:
 <details>
 <summary>📫 How to reach me</summary>
 
-- **Blog**: [dimosatteia.github.io](https://dimosatteia.github.io/)
+- **Blog**: [thecybersec.gr](https://thecybersec.gr/)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/dimosthenisatteia/)
 - **Email**: Available on profile
 
