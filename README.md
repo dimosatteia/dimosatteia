@@ -73,7 +73,7 @@ Active in the Greek Microsoft and cybersecurity community:
 <details>
 <summary>⚡ Fun fact</summary>
 
-I bridge two worlds: securing flour mills with industrial PLCs while optimizing cloud security posture with Microsoft Defender. From SCADA to SaaS, it's all about resilience! 🛡️
+I bridge governance frameworks with cloud security: aligning ISO 27001 and NIS2 compliance while optimizing security posture with Microsoft 365 Defender and Azure. From policies to Secure Score, it's all about resilience! 🛡️
 
 </details>
 
