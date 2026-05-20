@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my cybersecurity hub
 
-I'm Dimosthenis Atteia, CISO at **Μύλοι Κεπενού Α.Β.Ε.Ε.** (a NIS2 Significant Entity in Greece's food manufacturing sector) and co-founder of **Cymph OÜ**, a European cybersecurity platform. I specialize in aligning security frameworks with business operations in hybrid IT/OT environments.
+I'm Dimosthenis Atteia, CISO at **Μύλοι Κεπενού Α.Β.Ε.Ε.** (a NIS2 Significant Entity in Greece's food manufacturing sector). I specialize in aligning security frameworks with business operations in hybrid IT/OT environments.
 
 In this GitHub, you'll find GRC documentation, compliance frameworks, Microsoft 365 Security content, and insights from bridging ISO 27001, NIS2, and OT security in critical infrastructure.
 
