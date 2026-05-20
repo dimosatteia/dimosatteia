@@ -37,28 +37,43 @@ You'll find:
 
 ## 🏆 Certifications & Goals
 
+- ✅ MSc Cybersecurity, University of Derby
 - ✅ **CC** (ISC2 Certified in Cybersecurity)
 - ✅ **ISO 27001 Lead Auditor**
-- 🎯 MSc Cybersecurity, University of Derby
-- 🎯 ISC2 Certified in Cybersecurity (CC)
-- 🎯 ISO/IEC 27001 Lead Auditor
-- 🎯 Proofpoint Email Security Specialist
-- 🎯 Europe’s Top 10 Dynamic IT Leaders 2025
-- 🎯 CISO 50 Powerlist 2025
-- 🎯 Cyber Security Awards 2026 Winner
-- 🎯 Certified NIST CSF v2.0 + AI RMF Specialist
-- 🎯 Certified Network Security Specialist
-- 🎯 Proofpoint Certified AI Data Security Specialist 2025
-- 🎯 Proofpoint Certified AI Email Security Specialist 2025
-- 🎯 2025 Proofpoint Certified Security Awareness Specialist
-- 🎯 2025 Proofpoint Certified Email Authentication Specialist
 
-- <div>
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A4EF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/>
-  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-2E7D32?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/>
+## 🏆 Certifications & Achievements
+
+### Microsoft Certifications
+<div>
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900"/>
-  <img src="https://img.shields.io/badge/Microsoft-Security_Fundamentals-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900"/>
+  <img src="https://img.shields.io/badge/Microsoft-Security_Compliance_Identity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900"/>
 </div>
+
+### Industry Certifications
+<div>
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A4EF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/>
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-2E7D32?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001 LA"/>
+  <img src="https://img.shields.io/badge/NIST-CSF_v2.0_+_AI_RMF_Specialist-1E3A8A?style=for-the-badge&logo=nist&logoColor=white" alt="NIST CSF"/>
+  <img src="https://img.shields.io/badge/Certified-Network_Security_Specialist-DC143C?style=for-the-badge&logo=security&logoColor=white" alt="Network Security"/>
+</div>
+
+### Proofpoint Certifications
+<div>
+  <img src="https://img.shields.io/badge/Proofpoint-Email_Security_Specialist-0066CC?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint Email"/>
+  <img src="https://img.shields.io/badge/Proofpoint-AI_Data_Security_Specialist_2025-0066CC?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint AI Data"/>
+  <img src="https://img.shields.io/badge/Proofpoint-AI_Email_Security_Specialist_2025-0066CC?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint AI Email"/>
+  <img src="https://img.shields.io/badge/Proofpoint-Security_Awareness_Specialist_2025-0066CC?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint Awareness"/>
+  <img src="https://img.shields.io/badge/Proofpoint-Email_Authentication_Specialist_2025-0066CC?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint Auth"/>
+</div>
+
+### Industry Recognition & Awards
+<div>
+  <img src="https://img.shields.io/badge/🏆_Europe's_Top_10-Dynamic_IT_Leaders_2025-FFD700?style=for-the-badge" alt="Top 10 IT Leaders"/>
+  <img src="https://img.shields.io/badge/🏆_CISO_50-Powerlist_2025-FFD700?style=for-the-badge" alt="CISO 50"/>
+  <img src="https://img.shields.io/badge/🏆_Cyber_Security_Awards-2026_Winner-FFD700?style=for-the-badge" alt="Cyber Awards Winner"/>
+</div>
+
+
 
 ## 🤝 Community Engagement
 
