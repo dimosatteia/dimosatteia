@@ -35,11 +35,9 @@ You'll find:
 - **Risk Assessment Frameworks**: ISO 27005:2022 methodologies, OT-specific risk analysis
 - **Compliance Artifacts**: NIS2 implementation guides, audit preparation materials
 
-## 🏆 Certifications & Goals
+## 🎓 Education
 
 - ✅ MSc Cybersecurity, University of Derby
-- ✅ **CC** (ISC2 Certified in Cybersecurity)
-- ✅ **ISO 27001 Lead Auditor**
 
 ## 🏆 Certifications & Achievements
 
