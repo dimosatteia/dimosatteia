@@ -53,6 +53,13 @@ You'll find:
 - 🎯 2025 Proofpoint Certified Security Awareness Specialist
 - 🎯 2025 Proofpoint Certified Email Authentication Specialist
 
+- <div>
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A4EF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/>
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-2E7D32?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900"/>
+  <img src="https://img.shields.io/badge/Microsoft-Security_Fundamentals-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900"/>
+</div>
+
 ## 🤝 Community Engagement
 
 Active in the Greek Microsoft and cybersecurity community:
