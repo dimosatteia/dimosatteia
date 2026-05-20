@@ -10,13 +10,11 @@ In this GitHub, you'll find GRC documentation, compliance frameworks, Microsoft 
 ![NIS2](https://img.shields.io/badge/NIS2-Compliance-red?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Security-green?style=flat-square)
 ![GRC](https://img.shields.io/badge/GRC-Governance_Risk_Compliance-orange?style=flat-square)
-![OT Security](https://img.shields.io/badge/OT_Security-SCADA%20%7C%20ICS-purple?style=flat-square)
 
 ## 🔐 Focus Areas
 
 - **Governance, Risk & Compliance (GRC)**: ISO 27001/27005, NIS2 Directive (Greek Law 5160/2024), NIST frameworks
 - **Microsoft 365 Security**: Defender for Endpoint/Office 365, Entra ID, Intune, Secure Score optimization
-- **OT/ICS Security**: Siemens SIMATIC S7-400, SCADA infrastructure in food manufacturing
 - **Information Security Management**: ISMS development, risk assessments, policy frameworks
 - **Security Operations**: Incident response playbooks, SOC processes, threat intelligence
 
