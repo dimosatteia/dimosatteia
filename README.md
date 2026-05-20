@@ -21,7 +21,7 @@ In this GitHub, you'll find GRC documentation, compliance frameworks, Microsoft 
 ## 📚 Content & Resources
 
 ### 🌐 Blog
-I write about Microsoft Security & Copilot insights at [**Microsoft Security Insights**](https://dimosatteia.github.io/) — practical guidance for junior practitioners navigating Microsoft's security ecosystem.
+I write about Microsoft Security & Copilot insights at [**Microsoft Security Insights**](https://thecybersec.gr/) — practical guidance for junior practitioners navigating Microsoft's security ecosystem.
 
 **Current Series:**
 - Microsoft Secure Score as a Cyber GRC Instrument
